@@ -1,0 +1,5 @@
+CREATE TABLE status 
+(
+	status_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	status VARCHAR (20)
+);

@@ -1,0 +1,5 @@
+CREATE TABLE profession 
+(
+	prof_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	profession VARCHAR(20)
+);
